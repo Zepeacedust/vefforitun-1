@@ -1,2 +1,2 @@
-python3.7 -m pip install gunicorn
-python3.7 -m pip install flask
+pip install gunicorn
+pip install flask
